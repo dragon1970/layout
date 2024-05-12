@@ -1,13 +1,13 @@
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
+    name: 'woo1',
     age: 29,
     image: 'https://www.course-api.com/images/people/person-1.jpeg',
   },
   {
     id: 2,
-    name: 'Hester Hogan',
+    name: 'woo2',
     age: 32,
     image: 'https://www.course-api.com/images/people/person-2.jpeg',
   },
